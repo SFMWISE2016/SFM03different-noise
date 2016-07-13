@@ -1,0 +1,13 @@
+Name of Quantlet: SFM03different-noise
+
+Published in: Statistics of Financial Markets
+
+Description: 'Generates and plots white, pink, and blue noise and explain its difference'
+
+Keywords: 'plot, graphical representation, white noise, pink noise, blue noise '
+
+Author: qiangzhang weixiong jinxinwang guangyu
+
+Submitted:  2016/07/13
+
+Output: 'plot of white, pink, and blue noise '

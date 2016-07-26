@@ -5,6 +5,7 @@ Pricing the Asian option by applying the Halton sequence
 ## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **SFM10Halton_priAsiopt** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
 
 
+
 ```
 Name of Quantlet: SFM03different-noise
 
@@ -22,7 +23,9 @@ Output: 'plot of white, pink, and blue noise '
 
 ```
 
+
 ![Picture1](SFM03difffernernt-noise.R.png)
+
 
 
 # R code
@@ -57,9 +60,18 @@ writeWave(b,"b.wav")
 
 
 ```
+
+
+
+
 ![Picture1](SFM03whitenoise.m.png)
+
+
 ![Picture2](SFM03bluenoise.m.png)
-![Picture3](SFM03pinkboise.m.png)
+
+
+![Picture3](SFM03pinknoise.m.png)
+
 
 #  Matlab code
 ```matlab
